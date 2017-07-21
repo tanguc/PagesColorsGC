@@ -1,0 +1,6 @@
+FastAdaptiveMarkSweep Jikes RVM 3.1.3+hg (revision d203a01eb0c77abd2d0beee8f72baf29da5c39e5+)
+	host config: /home/vagrant/THESIS_SRC/my-tigc/build/configs/FastAdaptiveMarkSweep.properties
+	target config: /home/vagrant/THESIS_SRC/my-tigc/build/targets/x86_64-linux.properties
+	heap default initial size: 50 MiBytes
+	heap default maximum size: 100 MiBytes
+Error opening statistics.1020

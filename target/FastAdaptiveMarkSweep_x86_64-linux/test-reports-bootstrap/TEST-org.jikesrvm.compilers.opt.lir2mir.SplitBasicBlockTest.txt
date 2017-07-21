@@ -1,0 +1,11 @@
+Testsuite: org.jikesrvm.compilers.opt.lir2mir.SplitBasicBlockTest
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.311 sec
+
+Testcase: doesNotThrowExceptionsOnCFGWithoutInstructions took 0.247 sec
+Testcase: doesNotAddInstructionsToEmptyCFG took 0.011 sec
+Testcase: doesNotSplitEmptyCFG took 0 sec
+Testcase: doesNotCreateNewBlocksWhenNumberOfInstructionsMatchesLimit took 0.003 sec
+Testcase: splitsAllBlocksThatHaveTooManyInstructions took 0.003 sec
+Testcase: worksCorrectlyForALimitOfOneInstructionPerBlock took 0.002 sec
+Testcase: throwsOptimizingCompilerExceptionWhenLimitIsInvalid took 0 sec
+Testcase: branchesAtTheEndOfTheBlockDoNotCountAsIntructions took 0.009 sec

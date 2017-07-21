@@ -1,0 +1,9 @@
+Buildfile: /home/vagrant/THESIS_SRC/my-tigc/build.xml
+
+compile-vmmagic-stub:
+
+compile-options:
+
+compile-mmtk:
+    [javac] Warning: org/mmtk/plan/Plan.java modified in the future.
+    [javac] Compiling 1 source file to /home/vagrant/THESIS_SRC/my-tigc/target/mmtk/classes

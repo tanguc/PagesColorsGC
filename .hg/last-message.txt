@@ -1,0 +1,2 @@
+Fix uninterruptible violation error by making RVMType.isRVMType @Uninterruptible
+

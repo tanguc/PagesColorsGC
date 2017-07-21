@@ -1,0 +1,25 @@
+Testsuite: org.jikesrvm.tools.oth.OptTestHarnessTest
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 11, Time elapsed: 0.027 sec
+
+Testcase: doesNotCrashWhenNoOptCompilerIsAvailable took 0 sec
+	SKIPPED
+Testcase: emptyArgsLeadToNoCompiles took 0 sec
+	SKIPPED
+Testcase: incompleteArgsLeadToErrorMessage took 0 sec
+	SKIPPED
+Testcase: unknownArgsAreIgnored took 0 sec
+	SKIPPED
+Testcase: canLoadAClassByItsClassname took 0 sec
+	SKIPPED
+Testcase: convertToClassNameWorksForDescriptors took 0 sec
+	SKIPPED
+Testcase: convertToClassNameWorksForSourceFileNames took 0 sec
+	SKIPPED
+Testcase: convertToClassNameWorksForClassfileName took 0 sec
+	SKIPPED
+Testcase: convertToClassNameWorksForASimplePathString took 0 sec
+	SKIPPED
+Testcase: convertToClassNameSupportsSenselessCombinations took 0 sec
+	SKIPPED
+Testcase: convertToClassNameDoesNotWorkForComplexPathstrings took 0 sec
+	SKIPPED
